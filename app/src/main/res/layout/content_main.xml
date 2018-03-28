@@ -52,6 +52,7 @@
             android:layout_height="wrap_content">
 
             <include
+                android:id="@+id/content_main_user_profile"
                 layout="@layout/profile_cardview"
                 />
 

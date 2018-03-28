@@ -11,7 +11,7 @@
     card_view:cardCornerRadius="8dp">
 
 <LinearLayout
-
+    android:id="@+id/profile_cardview_whole_card"
     android:paddingBottom="15dp"
     android:orientation="horizontal"
     xmlns:android="http://schemas.android.com/apk/res/android"

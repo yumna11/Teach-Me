@@ -3,4 +3,7 @@
     <color name="colorPrimary">#91C636</color>
     <color name="colorPrimaryDark">#618e15</color>
     <color name="colorAccent">#b6f24e</color>
+    <color name="whiteSmoke">#f4f6f6</color>
+
+    <color name="black_overlay">#66000000</color>
 </resources>
