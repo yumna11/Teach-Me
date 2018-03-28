@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Teach me 2.0</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+        <string-array name="signup_role">
+            <item>Teacher</item>
+            <item>Student</item>
+            <item>Both</item>
+        </string-array>
+
+
+</resources>
